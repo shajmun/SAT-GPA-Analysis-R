@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-This project analyzes the relationship between students' SAT scores and their cumulative GPA in college. Using a dataset of 732 students, the analysis replicates and expands upon the findings of an undergraduate econometrics paper. The primary goal is to quantify the predictive validity of the SAT as an admissions tool, controlling for other demographic and behavioral factors.
+This project presents the analysis from my undergraduate econometrics term paper on the relationship between students' SAT scores and their cumulative GPA in college. Using a dataset of 732 students, the analysis quantifies the predictive validity of the SAT as an admissions tool while controlling for other demographic and behavioral factors. This repository contains the complete R code used to conduct the analysis from start to finish.
 
 ## 2. Data Source
 
@@ -14,8 +14,8 @@ The analysis was conducted entirely in R and involved the following key steps:
 * **Data Cleaning**: Handled observations with invalid values that caused errors in the log-transformation of the dependent variable.
 * **Exploratory Data Analysis (EDA)**: Used `ggplot2` to visualize the relationship between SAT scores and GPA.
 * **Regression Modeling**: Estimated five Ordinary Least Squares (OLS) models, starting with a simple regression and progressively adding control variables.
-* **Robustness Checks**: Calculated heteroskedasticity-robust standard errors and t-values using the `sandwich` and `lmtest` packages to ensure the validity of the statistical inference.
-* **Results Visualization**: Generated a professional regression table replicating the original paper's findings using the `stargazer` package.
+* **Robustness Checks**: Calculated heteroskedasticity-robust standard errors and t-values using the `sandwich` and `lmtest` packages to ensure the validity of the statistical inference, as discussed in my paper.
+* **Results Visualization**: Generated a professional regression table to present the final model outputs using the `stargazer` package.
 
 ## 4. Key Findings
 
