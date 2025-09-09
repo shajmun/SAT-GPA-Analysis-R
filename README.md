@@ -37,7 +37,7 @@ The analysis confirms that SAT scores are a statistically significant positive p
 | **Residual Std. Error** | **0.236** (df = 632) | **0.235** (df = 631) | **0.235** (df = 630) | **0.227** (df = 629) | **0.226** (df = 628) |
 | **F Statistic** | **94.848*** (df = 1; 632) | **49.531*** (df = 2; 631) | **33.215*** (df = 3; 630) | **38.632*** (df = 4; 629) | **31.757*** (df = 5; 628) |
 
-<sub>*p &lt; 0.1; **p &lt; 0.05; ***p &lt; 0.01*</sub>
+<sub>*p &lt; 0.1; **p &lt; 0.05; ****p &lt; 0.01*</sub>
 
 <img width="1612" height="997" alt="image" src="https://github.com/user-attachments/assets/18a4e7b8-47a8-4878-865e-3b59e7e571bf" />
 
