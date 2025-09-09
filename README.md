@@ -39,7 +39,8 @@ The analysis confirms that SAT scores are a statistically significant positive p
 
 <sub>*p &lt; 0.1; **p &lt; 0.05; ****p &lt; 0.01*</sub>
 
-<img width="1612" height="997" alt="image" src="https://github.com/user-attachments/assets/18a4e7b8-47a8-4878-865e-3b59e7e571bf" />
+<img width="1207" height="997" alt="image" src="https://github.com/user-attachments/assets/57da072d-2bae-4c3f-a1db-2c0eabe4f8ba" />
+
 
 
 ## 5. How to Use This Repository
