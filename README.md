@@ -40,12 +40,3 @@ The analysis confirms that SAT scores are a statistically significant positive p
 <sub>*p &lt; 0.1; **p &lt; 0.05; ****p &lt; 0.01*</sub>
 
 <img width="1207" height="997" alt="image" src="https://github.com/user-attachments/assets/57da072d-2bae-4c3f-a1db-2c0eabe4f8ba" />
-
-
-
-## 5. How to Use This Repository
-
-1.  Clone or download the repository.
-2.  Open the `.R` script in RStudio.
-3.  Ensure all required packages (`tidyverse`, `wooldridge`, `lmtest`, `sandwich`, `stargazer`) are installed.
-4.  Run the script from top to bottom to reproduce the analysis and generate the final table.
